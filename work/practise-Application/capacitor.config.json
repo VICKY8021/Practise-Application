@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "practise-Application",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
